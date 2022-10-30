@@ -60,8 +60,8 @@
   }
 
 .about-section h1{
-    font-size: 34px;
-    line-height: 46px;
+    font-size: 64px;
+    line-height: 86px;
 } 
 
 .about-section h2{
@@ -72,10 +72,7 @@
 .about-section-content{
     margin: 50px;
 }
-.about-section{
-    text-align: center;
-    padding: 0;
-}
+
 #me{
     border-radius: 25px;
     width: 230px;
@@ -115,7 +112,10 @@
     .hero {
       padding: 80px 20px;
     }
-  
+    .about-section{
+      text-align: center;
+      padding: 0;
+  }
     .project-desciption {
       padding: 0;
       text-align: center;
